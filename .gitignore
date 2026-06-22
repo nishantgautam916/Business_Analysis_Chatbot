@@ -11,3 +11,5 @@ office-bot/vector_db/
 
 # Optional
 .env
+#another ignored file 
+office-bot/data/
