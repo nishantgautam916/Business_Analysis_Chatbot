@@ -1,0 +1,13 @@
+# Ignore virtual environment
+office-bot/venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore vector databases
+office-bot/chroma_db/
+office-bot/vector_db/
+
+# Optional
+.env
